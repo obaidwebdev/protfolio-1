@@ -1,0 +1,24 @@
+{
+  "websites": [
+    {
+      "title": "Obaid Khan Web",
+      "url": "https://obaidwebdev.github.io",
+      "favicon": "https://obaidwebdev.github.io/favicon.ico"
+    },
+    {
+      "title": "Obaid Web Developer",
+      "url": "https://obaidwebdev-pk.rf.gd/",
+      "favicon": "https://obaidwebdev-pk.rf.gd/favicons/android-chrome-192x192.png"
+    },
+    {
+      "title": "Obaid Portfolio",
+      "url": "https://obaid-portfolio-five.vercel.app/",
+      "favicon": "https://obaid-portfolio-five.vercel.app/images/logo.ico"
+    },
+    {
+      "title": "Obaid Workspaces",
+      "url": "https://obaidworkspaces.vercel.app/",
+      "favicon": "http://obaidworkspaces.vercel.app/images/favicon.ico"
+    }
+  ]
+}
